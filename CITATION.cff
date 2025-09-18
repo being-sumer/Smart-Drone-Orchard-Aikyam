@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the following metadata."
+title: "Smart Drone-Based Intelligent System for Precision Apple Orchard Management"
+version: "1.0.0"
+type: "software"
+date-released: "2025-03-01"
+url: "https://github.com/<your-username>/smart-drone-apple-orchard"
+doi: "DOI_NOT_ASSIGNED"
+keywords:
+  - drone
+  - precision agriculture
+  - electronics
+  - multispectral imaging
+  - deep learning
+  - smart farming
+  - SIH 2024
+license: "MIT"
+
+authors:
+  - family-names: "Pandey"
+    given-names: "Sumer"
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+    orcid: "0000-0000-0000-0000" # optional if available
+  - family-names: "Rathod"
+    given-names: "Dhruv"
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+  - family-names: "Trivedi"
+    given-names: "Kandarp"
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+  - family-names: "Sharma"
+    given-names: "Kashish"
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+  - family-names: "Diya"
+    given-names: ""
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+  - family-names: "Chavda"
+    given-names: "Jimit"
+    affiliation: "Pandit Deendayal Energy University (PDEU)"
+
+preferred-citation:
+  type: "bibtex"
+  citation: |
+    @misc{aikyam2025drone,
+      title        = {Smart Drone-Based Intelligent System for Precision Apple Orchard Management},
+      author       = {Pandey, Sumer and Rathod, Dhruv and Trivedi, Kandarp and Sharma, Kashish and Diya and Chavda, Jimit},
+      year         = {2025},
+      month        = {Mar},
+      doi          = {DOI_NOT_ASSIGNED},
+      howpublished = {GitHub repository},
+      url          = {https://github.com/<being-sumer>/smart-drone-apple-orchard}
+    }
