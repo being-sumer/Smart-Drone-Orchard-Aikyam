@@ -63,55 +63,57 @@ Key differentiator: Instead of expensive commercial multispectral cameras (~₹3
 
 ## 📂 Repository Structure  
 
+<pre>
 smart-drone-apple-orchard/
 │
-├── README.md # Main project documentation
-├── TIMELINE.md # Project roadmap & competition journey
-├── METRICS.md # Technical, cost, and impact metrics
-├── LICENSE # MIT license
-├── CITATION.cff # Citation metadata
-├── DECK.pdf # Original SIH project deck
+├── README.md                 # Main project documentation
+├── TIMELINE.md               # Project roadmap & competition journey
+├── METRICS.md                # Technical, cost, and impact metrics
+├── LICENSE                   # MIT license
+├── CITATION.cff              # Citation metadata
+├── DECK.pdf                  # Original SIH project deck
 │
-├── /docs # Supporting documentation (19 files)
-│ ├── apple-orchard-details.pdf
-│ ├── working-principle.pdf
-│ ├── estimated-budget.pdf
-│ ├── electronic-circuit.pdf
-│ ├── plant-health-parameters.pdf
-│ ├── flight-duration-weight.pdf
-│ ├── cost-feature-benefit.pdf
-│ ├── literature-review.pdf
-│ ├── agrone-drone-design.pdf
-│ ├── agri-drone-applications.pdf
-│ ├── spraying-drones.pdf
-│ ├── custom-drone-design.pdf
-│ ├── component-docs.pdf
-│ ├── datasheet-collection.pdf
-│ ├── deep-learning-docs.pdf
-│ ├── electronic-components.pdf
-│ ├── mechanical-components.pdf
-│ ├── progress-timeline.pdf
-│ └── multispectral-cost-analysis.pdf
+├── /docs                     # Supporting documentation (19 files)
+│   ├── apple-orchard-details.pdf
+│   ├── working-principle.pdf
+│   ├── estimated-budget.pdf
+│   ├── electronic-circuit.pdf
+│   ├── plant-health-parameters.pdf
+│   ├── flight-duration-weight.pdf
+│   ├── cost-feature-benefit.pdf
+│   ├── literature-review.pdf
+│   ├── agrone-drone-design.pdf
+│   ├── agri-drone-applications.pdf
+│   ├── spraying-drones.pdf
+│   ├── custom-drone-design.pdf
+│   ├── component-docs.pdf
+│   ├── datasheet-collection.pdf
+│   ├── deep-learning-docs.pdf
+│   ├── electronic-components.pdf
+│   ├── mechanical-components.pdf
+│   ├── progress-timeline.pdf
+│   └── multispectral-cost-analysis.pdf
 │
-├── /hardware # Hardware & electronics designs
-│ ├── cad-design.stl
-│ ├── cad-design.png
-│ ├── circuit-diagram.pdf
-│ └── detailed-circuit.pdf
+├── /hardware                 # Hardware & electronics designs
+│   ├── cad-design.stl
+│   ├── cad-design.png
+│   ├── circuit-diagram.pdf
+│   └── detailed-circuit.pdf
 │
-├── /literature-summary.md # Reference literature & feasibility
+├── /literature-summary.md     # Reference literature & feasibility
 │
-└── /media # Visuals
-├── cad-design.png
-├── final-flowchart.png
-├── ppt-circuit.png
-├── detailed-circuit1.png
-├── detailed-circuit2.png
-├── detailed-circuit3.png
-├── detailed-circuit4.png
-├── detailed-circuit5.png
-├── detailed-circuit6.png
-└── orchard-usecase.jpg
+└── /media                    # Visuals
+    ├── cad-design.png
+    ├── final-flowchart.png
+    ├── ppt-circuit.png
+    ├── detailed-circuit1.png
+    ├── detailed-circuit2.png
+    ├── detailed-circuit3.png
+    ├── detailed-circuit4.png
+    ├── detailed-circuit5.png
+    ├── detailed-circuit6.png
+    └── orchard-usecase.jpg
+</pre>
 
 
 ---
@@ -186,3 +188,4 @@ Though the project was developed as a **design & proposal deck** (not a built pr
 - Team leadership, collaboration, and competition excellence  
 
 > *From orchards to innovation — this project proved that the right blueprint can shape the future of precision agriculture.*  
+
