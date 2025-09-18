@@ -103,16 +103,10 @@ smart-drone-apple-orchard/
 ├── /literature-summary.md     # Reference literature & feasibility
 │
 └── /media                    # Visuals
-    ├── cad-design.png
-    ├── final-flowchart.png
-    ├── ppt-circuit.png
-    ├── detailed-circuit1.png
-    ├── detailed-circuit2.png
-    ├── detailed-circuit3.png
-    ├── detailed-circuit4.png
-    ├── detailed-circuit5.png
-    ├── detailed-circuit6.png
-    └── orchard-usecase.jpg
+    ├── Final CAD Design.png
+    ├── Final CNN Deep Learning Model.png
+    ├── Final Flowchart JPG.jpg
+    └── Final PPT Circuit Diagram JPG.jpg
 </pre>
 
 
@@ -188,4 +182,5 @@ Though the project was developed as a **design & proposal deck** (not a built pr
 - Team leadership, collaboration, and competition excellence  
 
 > *From orchards to innovation — this project proved that the right blueprint can shape the future of precision agriculture.*  
+
 
