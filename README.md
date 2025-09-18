@@ -155,7 +155,7 @@ smart-drone-apple-orchard/
 
 | CAD Design | Final Flowchart | Circuit Diagram |
 |------------|----------------|----------------|
-| ![CAD](./media/cad-design.png) | ![Flowchart](./media/final-flowchart.png) | ![Circuit](./media/ppt-circuit.png) |
+| ![CAD](./media/Final CAD Design.png) | ![Flowchart](./media/Final Flowchart JPG.jpg) | ![Circuit](./media/Final PPT Circuit Diagram JPG.jpg) |
 
 ---
 
@@ -191,6 +191,7 @@ Though the project was developed as a **design & proposal deck** (not a built pr
 - Team leadership, collaboration, and competition excellence  
 
 > *From orchards to innovation — this project proved that the right blueprint can shape the future of precision agriculture.*  
+
 
 
 
