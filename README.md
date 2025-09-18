@@ -72,29 +72,27 @@ smart-drone-apple-orchard/
 ├── LICENSE                   # MIT license
 ├── CITATION.cff              # Citation metadata
 ├── DECK.pdf                  # Original SIH project deck
-│
-├── /literature-summary.md     # Reference literature & feasibility
 │  
 ├── /docs                     # Supporting documentation (19 files)
-│   ├── apple-orchard-details.pdf
-│   ├── working-principle.pdf
-│   ├── estimated-budget.pdf
-│   ├── electronic-circuit.pdf
-│   ├── plant-health-parameters.pdf
-│   ├── flight-duration-weight.pdf
-│   ├── cost-feature-benefit.pdf
-│   ├── literature-review.pdf
-│   ├── agrone-drone-design.pdf
-│   ├── agri-drone-applications.pdf
-│   ├── spraying-drones.pdf
-│   ├── custom-drone-design.pdf
-│   ├── component-docs.pdf
-│   ├── datasheet-collection.pdf
-│   ├── deep-learning-docs.pdf
-│   ├── electronic-components.pdf
-│   ├── mechanical-components.pdf
-│   ├── progress-timeline.pdf
-│   └── multispectral-cost-analysis.pdf
+│   ├── Final All Component Documentation.pdf
+│   ├── Final Cost-Feature-Benefit Analysis Documentation.pdf
+│   ├── Final Datasheet Documentation.pdf
+│   ├── Final Deep Learning Models Documentation.pdf
+│   ├── Final Detailed Electronic Circuit Diagram.pdf
+│   ├── Final Electronic Component Documentation.pdf
+│   ├── Final Estimated Budget Documentation.pdf
+│   ├── Final Expected Progress Timeline Documentation.pdf
+│   ├── Final Himachal Pradesh Farms Documentation.pdf
+│   ├── Final Low Cost Solution to Multispectral Camera Documentation.pdf
+│   ├── Final Mechanical Component Documentation.pdf
+│   ├── Final Plant Health Parameters Documentation.pdf
+│   ├── Final Weight & Flight Duration Documentation.pdf
+│   ├── Final Working Principle Methodology Documentation.pdf
+│   ├── R AgrOne Agri Drone.pdf
+│   ├── R Area Battleground 2024_ Apple may shape poli...pdf
+│   ├── R Basics of Agri Drones.pdf
+│   ├── R Design 2 of Agri Drone.pdf
+│   └── R Design of Agri Design.pdf
 │
 ├── /hardware                 # Hardware & electronics designs
 │   ├── Drone side top.JPG
@@ -193,6 +191,7 @@ Though the project was developed as a **design & proposal deck** (not a built pr
 - Team leadership, collaboration, and competition excellence  
 
 > *From orchards to innovation — this project proved that the right blueprint can shape the future of precision agriculture.*  
+
 
 
 
