@@ -73,6 +73,8 @@ smart-drone-apple-orchard/
 ├── CITATION.cff              # Citation metadata
 ├── DECK.pdf                  # Original SIH project deck
 │
+├── /literature-summary.md     # Reference literature & feasibility
+│  
 ├── /docs                     # Supporting documentation (19 files)
 │   ├── apple-orchard-details.pdf
 │   ├── working-principle.pdf
@@ -95,12 +97,21 @@ smart-drone-apple-orchard/
 │   └── multispectral-cost-analysis.pdf
 │
 ├── /hardware                 # Hardware & electronics designs
-│   ├── cad-design.stl
-│   ├── cad-design.png
-│   ├── circuit-diagram.pdf
-│   └── detailed-circuit.pdf
+│   ├── Drone side top.JPG
+│   ├── Final Detailed Electronic Circuit Diagram_page-0001.jpg
+│   ├── Final Detailed Electronic Circuit Diagram_page-0002.jpg
+│   ├── Final Detailed Electronic Circuit Diagram_page-0003.jpg
+│   ├── Final Detailed Electronic Circuit Diagram_page-0004.jpg
+│   ├── Final Detailed Electronic Circuit Diagram_page-0005.jpg
+│   ├── Final Detailed Electronic Circuit Diagram_page-0006.jpg
+│   ├── Iso view.JPG
+│   ├── dc bottom.png
+│   ├── dc front.png
+│   ├── dc left.png
+│   ├── dc right.png
+│   ├── dc top.png
+│   └── drone view.JPG
 │
-├── /literature-summary.md     # Reference literature & feasibility
 │
 └── /media                    # Visuals
     ├── Final CAD Design.png
@@ -182,5 +193,6 @@ Though the project was developed as a **design & proposal deck** (not a built pr
 - Team leadership, collaboration, and competition excellence  
 
 > *From orchards to innovation — this project proved that the right blueprint can shape the future of precision agriculture.*  
+
 
 
